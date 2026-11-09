@@ -1,2 +1,2 @@
-# wardogs-tracker
-wardogs-tracker for clan member
+# Wardogs GiD Tracker
+Data from [WARDOGS Tracker](https://wardogstracker.gg).
